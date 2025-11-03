@@ -1,5 +1,7 @@
 cache/
 upload/
+._.DS_Store
+.DS_Store
 .htaccess
 /system/config/config.php
 *.zip
