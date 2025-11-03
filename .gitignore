@@ -1,0 +1,12 @@
+cache/
+upload/
+.htaccess
+/system/config/config.php
+*.zip
+*.tar
+*.gz
+*.rar
+.idea/
+.vscode/
+*.swp
+*.swo
